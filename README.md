@@ -27,6 +27,23 @@ The evaluation focused on word-level and token-level matching between `ground_tr
 
 - **Script handling**: Devanagari variants were aggregated by mapping `marathi` into `hindi` in the evaluation step to align with how the OCR pipeline reports Devanagari results.
 
+---
+
+# Example Results
+
+Below is a side-by-side comparison of a sample image (`dc_23.jpg`) showing the ground truth annotations and the model output predictions:
+
+| Ground Truth | Model Output |
+|:---:|:---:|
+| ![Ground Truth](Ground_Truth/dc_23.jpg) | ![Model Output](Model_Output/dc_23.jpg) |
+
+```
+WRR
+Hindi : 1/6 = 0.167
+English : 0/1 = 0
+```
+---
+
 # WRR plots
 
 - WRR plot — Hindi (case-sensitive / case-insensitive):
