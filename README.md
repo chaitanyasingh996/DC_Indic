@@ -31,7 +31,7 @@ The evaluation focused on word-level and token-level matching between `ground_tr
 
 # Example Results
 
-Below is a side-by-side comparison of a sample image (`dc_23.jpg`) showing the ground truth annotations and the model output predictions:
+Below is a side-by-side comparison of a sample image (`dc_46.jpg`) showing the ground truth annotations and the model output predictions:
 
 | Ground Truth | Model Output |
 |:---:|:---:|
