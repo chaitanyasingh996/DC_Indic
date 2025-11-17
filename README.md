@@ -36,3 +36,16 @@ The evaluation focused on word-level and token-level matching between `ground_tr
 - WRR plot — English (case-sensitive / case-insensitive):
 
 	![alt PATH_TO_ENGLISH_WRR_PLOT](results/Figure_2.png)
+
+# References and Sources
+
+This project was built upon the following resources and tools:
+
+- **IndicPhotoOCR**: The core OCR pipeline used for inference and evaluation. See [Bhashini-IITJ/IndicPhotoOCR](https://github.com/Bhashini-IITJ/IndicPhotoOCR) for the original repository and documentation.
+
+- **VIA (VGG Image Annotator)**: Used for polygon-level annotation and transcription of the dataset. More information available at [VIA Project](http://www.robots.ox.ac.uk/~vgg/software/via/).
+
+
+# Acknowledgements
+
+We acknowledge the IndicPhotoOCR team at Bhashini-IITJ for the OCR pipeline and the VGG Image Annotator project for the annotation tooling that made this evaluation dataset possible.
