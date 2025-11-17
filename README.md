@@ -31,8 +31,8 @@ The evaluation focused on word-level and token-level matching between `ground_tr
 
 - WRR plot — Hindi (case-sensitive / case-insensitive):
 
-    ![alt PATH_TO_HINDI_WRR_PLOT](results\Figure_1.png)
+    ![alt PATH_TO_HINDI_WRR_PLOT](results/Figure_1.png)
 
 - WRR plot — English (case-sensitive / case-insensitive):
 
-	![alt PATH_TO_ENGLISH_WRR_PLOT](results\Figure_2.png)
+	![alt PATH_TO_ENGLISH_WRR_PLOT](results/Figure_2.png)
