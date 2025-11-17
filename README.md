@@ -35,12 +35,12 @@ Below is a side-by-side comparison of a sample image (`dc_23.jpg`) showing the g
 
 | Ground Truth | Model Output |
 |:---:|:---:|
-| ![Ground Truth](Ground_Truth/dc_23.jpg) | ![Model Output](Model_Output/dc_23.jpg) |
+| ![Ground Truth](Ground_Truth/dc_46.jpg) | ![Model Output](Model_Output/dc_46.jpg) |
 
 ```
 WRR
-Hindi : 1/6 = 0.167
-English : 0/1 = 0
+Hindi : 0/1 = 0
+English : 1/3 = 0.33
 ```
 ---
 
